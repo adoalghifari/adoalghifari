@@ -61,8 +61,8 @@ Hi there ✋!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
-<h1> Hubungi Saya </h1>
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+<h1> My HoloPin Badge: </h1>
+<!-- <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/> -->
 
 [![An image of @adoalghifari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adoalghifari)](https://holopin.io/@adoalghifari)
 
